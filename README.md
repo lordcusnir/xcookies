@@ -59,14 +59,6 @@ See `credentials.example.txt` for a template.
 ]
 ```
 
-## Security
-
-**Never commit your credentials or cookies!**
-
-- `credentials.txt` is gitignored
-- `cookies.json` is gitignored
-- Only `credentials.example.txt` (a blank template) is tracked
-
 ## Requirements
 
 - Python 3.11+
